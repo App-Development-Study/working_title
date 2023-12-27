@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Feature Templates
+about: Feature 이슈 템플릿
 title: "[Feat]"
 labels: feature
 assignees: ''
