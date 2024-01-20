@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+
 import 'package:kakao_flutter_sdk/kakao_flutter_sdk.dart';
 import 'package:sad/login_page/loginpage.dart';
+import 'package:sad/splash.dart';
 // import 'package:sad/login_page/google_loginpage.dart';
 
 void main() async {
@@ -30,7 +32,6 @@ class MyApp extends StatelessWidget {
         fontFamily: "Pretendard",
       ),
       home: const LoginPage(),
-      // home: const SampleScreen(),
     );
   }
 }
